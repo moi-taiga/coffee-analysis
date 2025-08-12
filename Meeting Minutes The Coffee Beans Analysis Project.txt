@@ -1,0 +1,27 @@
+The Coffee Beans Analysis Project
+Meeting with client: Espress Yourself – reputation for Artisan Coffee
+Date: 12th August 2025, 16:00
+Aroma, nutty chocolatey, warm rich, medium – wet processing
+Customers have noted worsening
+Replacement supplier needed
+Identify a single country for procurement / flavour profile. Multiple exporters favoured in case of supply chain issues.
+Limitations in terms of tiny batch processing, possibility for growth but not so massive bags that coffee spoils.
+Price around average, fairtrade is important, climate change concerns due to increased crop failures, resilience for future changes, workers’ rights
+Sliders on a dashboard
+2 years old coffee limit
+Washed and wet only to limit quality variability
+Project delivery ASAP
+Deliverables:
+No spreadsheets – beautiful visual (graphs, dashboard with sliders to prioritise) maybe a filter on dashboard to exclude i.e. countries with less than 2 producers
+Evidence – code needs to be available for other engineers
+Identify minimum viable product (by day 3 / first sprint) and optional extras (by day 5 / second sprint).
+Brown or beige presentation theme to match (copy of branding/website provided)
+Fast, cheap, good trade-off
+2 sprints in bootcamp
+Goal is to identify a single country.
+Missing input – list requested from client of NA fields to exclude
+½ ton of beans / 500kg to be maintained at all times
+
+
+
+
