@@ -16,6 +16,7 @@ We are a coffee company based in Southampton, UK, and are looking to improve whe
 ## Licence
 
 ## Authors
+Moi Disha Bob Morgan Jenny
 
 ## Acknowledgements
 
