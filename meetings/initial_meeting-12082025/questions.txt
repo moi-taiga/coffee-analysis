@@ -1,0 +1,22 @@
+1. Clarifying key decision criteria
+Flavour, aroma, body, and uniformity are customer priorities. 
+Do these four variables have equal importance, or should they be weighted differently?
+
+2. Processing preferences
+Washed/Wet Prefered. 
+Should we exclude all suppliers that don’t use this method, or should we include them but rank them lower?
+
+3. Supplier constraints & Broader business factors
+Do you have any requirements in terms of the number of suppliers, one supplier for convenience, or multiple for diversity?
+Do you have any ethical concerns about some countries/suppliers?
+Are there cost, shipping, or trade regulation constraints we should also factor in, or is this purely a quality-driven decision?
+Are there specific regions or countries you would like to avoid or prioritise for political, environmental, or ethical sourcing reasons?
+Should we consder logistics e.g. Bag weight, and number of bags, are relevant to you? 
+
+4. Handling imperfect data
+Should we remove any rows where there is an N/A in an important column?
+
+5. Presentation of results
+Do you want us to produce a single “best country” recommendation, or also show a top 3–5 ranking for flexibility?
+Should we also provide a sensitivity analysis showing how the recommendation changes if certain factors are weighted differently, this could be represented in a shiny app type?
+
