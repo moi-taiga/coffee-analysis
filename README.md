@@ -21,6 +21,7 @@ This code is designed for researchers or analysts familiar with Python data scie
 ## Installation
 
 ## Usage
+This code repository provides a set of scripts to perform data analysis to know where a company should send their buyers to find a new bean supplier.
 
 ## Running Tests
 
