@@ -15,5 +15,6 @@
 ## Licence
 
 ## Authors
+Moi Disha Bob Morgan Jenny
 
 ## Acknowledgements
