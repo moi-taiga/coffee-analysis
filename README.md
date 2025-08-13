@@ -17,3 +17,5 @@
 ## Authors
 
 ## Acknowledgements
+
+This project was completed with support from the Software Sustainability Institute (SSI).
